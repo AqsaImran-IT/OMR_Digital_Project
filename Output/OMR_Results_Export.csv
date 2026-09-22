@@ -1,0 +1,29 @@
+Sheet Name,Roll No,Score,Quality Flag,Status
+Image_1.jpeg,1001,72/100,None,COMPLETED
+Image_10.jpeg,1002,79/100,None,COMPLETED
+Image_11.jpeg,1003,71/100,None,COMPLETED
+Image_12.jpeg,1004,83/100,None,COMPLETED
+Image_13.jpeg,1005,0/100,No Bubbles Filled,BLANK / EMPTY
+Image_14.jpeg,1006,78/100,None,COMPLETED
+Image_15.jpeg,1007,65/100,Low Contrast / Tilt Detected,FLAGGED
+Image_16.jpeg,1008,77/100,None,COMPLETED
+Image_17.jpeg,1009,N/A,Alignment Error,NOT PROCESSED
+Image_18.jpeg,10010,0/100,No Bubbles Filled,BLANK / EMPTY
+Image_19.jpeg,10011,81/100,None,COMPLETED
+Image_2.jpeg,10012,76/100,None,COMPLETED
+Image_20.jpeg,10013,74/100,None,COMPLETED
+Image_21.jpeg,10014,65/100,Low Contrast / Tilt Detected,FLAGGED
+Image_22.jpeg,10015,0/100,No Bubbles Filled,BLANK / EMPTY
+Image_23.jpeg,10016,75/100,None,COMPLETED
+Image_24.jpeg,10017,86/100,None,COMPLETED
+Image_25.jpeg,10018,N/A,Alignment Error,NOT PROCESSED
+Image_26.jpeg,10019,93/100,None,COMPLETED
+Image_27.jpeg,10020,0/100,No Bubbles Filled,BLANK / EMPTY
+Image_28.jpeg,10021,65/100,Low Contrast / Tilt Detected,FLAGGED
+Image_3.jpeg,10022,86/100,None,COMPLETED
+Image_4.jpeg,10023,75/100,None,COMPLETED
+Image_5.jpeg,10024,76/100,None,COMPLETED
+Image_6.jpeg,10025,0/100,No Bubbles Filled,BLANK / EMPTY
+Image_7.jpeg,10026,73/100,None,COMPLETED
+Image_8.jpeg,10027,N/A,Alignment Error,NOT PROCESSED
+Image_9.jpeg,10028,65/100,Low Contrast / Tilt Detected,FLAGGED

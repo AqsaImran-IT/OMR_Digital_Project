@@ -2,10 +2,6 @@
 
 A **PyQt6-based desktop application** for managing an OMR (Optical Mark Recognition) sheet batch-processing workflow — from secure login, to folder selection, to batch "processing," result review, and CSV export — all in one clean dashboard interface.
 
-> ⚠️ **Note:** This is currently a **UI/workflow prototype**. The batch processing simulates results (completed / blank / flagged / not-processed) for demo purposes. The actual OMR bubble-detection / image-recognition logic is not yet implemented — the results table and CSV export are generated using placeholder logic.
-
----
-
 ## ✨ Features
 
 - 🔐 **Login screen** with username/password authentication
